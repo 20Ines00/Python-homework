@@ -80,3 +80,12 @@ italy_gdp = GDP_2018.pop("Italy")
 print(GDP_2018)
 print(italy_gdp, "trillion USD")
 ```
+Rosalind exercise #INI2
+```python
+a = int(875)
+b = int(911)
+csq = a * a + b * b
+print(csq)
+1595546
+```
+

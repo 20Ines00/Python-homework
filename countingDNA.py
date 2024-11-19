@@ -9,6 +9,7 @@ def count_occurrences(word, target_letter):
             count_target_letter += 1
     
     return (count_target_letter)
+ 
  # this version would be faster if we had a much longer DNA-sequence         
 def count_all(DNA):
     cnt_a = cnt_c = cnt_g = cnt_t = 0
